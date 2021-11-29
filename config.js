@@ -20,11 +20,11 @@ function kyun(seconds){
 }
 					runtime = process.uptime()
 					teks = `${kyun(runtime)}`
-global.owner = ['6283820073017','62813828362494', '6287827659529', '919089248348','12135998445', '6288708344182', '0' ] // Put your number here
-global.fake = ['6283820073017', '6281382836249', '6289681378568', '62813828362494', '6283801499848']
-global.fakeNum = ['6283820073017', '6281382836249', '6289681378568', '62813828362494', '6283801499848', '6283820073017','62813828362494', '6287827659529', '919089248348','12135998445', '0' ]
+global.owner = ['6289614412045' ] // Put your number here
+global.fake = ['6289614412045']
+global.fakeNum = ['6283820073017', '6281382836249', '6289681378568', '62813828362494', '6283801499848', '6283820073017','62813828362494', '6287827659529', '919089248348','12135998445', '6289614412045' ]
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['6289614412045'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -48,7 +48,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname =  `Simple WhatsApp Bot`
-global.author = `@Rlxfly`
+global.author = `@yans`
 global.thumb = tum
 global.thumb2 = tum2
 global.thumb3 = tum3
